@@ -2,7 +2,7 @@
   "engines": {
     "node": "20.14.0"
   },
-  "name": "Find Your Place",
+  "name": "find-your-place",
   "version": "1.0.0",
   "main": "index.js",
   
